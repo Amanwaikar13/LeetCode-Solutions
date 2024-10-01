@@ -1,22 +1,16 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        
-    set<int> ordered_set;
+        vector<int>st;
 
-    int n = nums.size();
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
 
-    for (int num : nums) {
-        ordered_set.insert(num);
-    }
-
-    for (int i = 0; i < n; i++) {
-
-        if (ordered_set.find(i) == ordered_set.end()) {
-            return i;
+        for(int i =0;i < nums.size();i++){
+            if(nums[i] != i){
+                return i;
+            }
         }
-    }
-
-    return n;
+        return n;
     }
 };
