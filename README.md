@@ -6,6 +6,7 @@ Welcome to my repository of LeetCode problem solutions written in C++! Here you'
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ Welcome to my repository of LeetCode problem solutions written in C++! Here you'
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
