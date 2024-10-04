@@ -31,4 +31,12 @@ Welcome to my repository of LeetCode problem solutions written in C++! Here you'
 | ------- |
 | [0268-missing-number](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Amanwaikar13/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
