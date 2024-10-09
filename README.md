@@ -3,7 +3,7 @@ Welcome to my repository of LeetCode problem solutions written in C++! Here you'
 <br>
 
 ### 🌟 **Check out my LeetCode profile!** 🌟 
-### [🔗 **Join me on LeetCode!**](https://leetcode.com/Amanwaikar13/)
+### [🔗 **Join me on LeetCode!**](https://leetcode.com/u/Amanwaikar/)
 <br>
 
 <!---LeetCode Topics Start-->
